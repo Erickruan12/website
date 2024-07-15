@@ -26,7 +26,7 @@ This will return `true` as the given link is valid:
 client.command({
     name: "isValidLink",
     code: `
-  $isValidLink[https://aoi.js.org/docs/]
+  $isValidLink[https://aoi.js.org]
   `
 });
 ```
