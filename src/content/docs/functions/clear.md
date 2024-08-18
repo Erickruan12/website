@@ -4,7 +4,7 @@ description: $clear will delete the amount of given messages in a channel.
 id: clear
 ---
 
-`$clear` will delete the amount of given messages in a channel.
+`$clear` will delete the amount of given messages in a channel. (the message limit is <number>)
 
 ## Usage
 
